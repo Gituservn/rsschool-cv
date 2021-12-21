@@ -33,3 +33,23 @@ I know how to find a way out of the most difficult situations. Not conflicted an
 - _GIT_
 
 ---
+
+## **Example code**
+
+```
+
+<form id="consultation-form" class="feed-form" action="#">
+    <input name="name" required placeholder="name" type="text">
+    <input name="phone" required placeholder="phone number">
+    <input name="email" placeholder="E-mail" type="email">
+    <button class="button button_submit">OK</button>
+</form>
+```
+
+---
+
+## **Experience**
+
+-no experience
+
+---
