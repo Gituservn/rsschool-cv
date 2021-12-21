@@ -53,3 +53,14 @@ I know how to find a way out of the most difficult situations. Not conflicted an
 -no experience
 
 ---
+
+## **Education**
+
+- [Web Developer 2021](https://www.udemy.com/course/webdeveloper/) (90%)
+- [The Complete JavaScript + React Course - From Scratch to Results](https://www.udemy.com/course/javascript_full/) (10%)
+
+---
+
+## **English**
+
+-A2 (At the training stage)
