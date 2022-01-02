@@ -1,3 +1,9 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
 * {
   font-family: "Playfair Display", serif;
   font-family: "PT Sans Narrow", sans-serif;
@@ -244,6 +250,7 @@ h2 {
 }
 
 .footer {
+  width: 100%;
   background-color: rgba(158, 140, 108, 0.185);
   display: -webkit-box;
   display: -ms-flexbox;
